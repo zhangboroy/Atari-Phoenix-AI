@@ -1,1 +1,1 @@
-# Atari-Pheonix-AI
+# Reinforcement AI for Atari Pheonix Game
