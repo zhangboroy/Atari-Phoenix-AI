@@ -1,1 +1,1 @@
-# Reinforcement Learning AI for Atari Phoenix Game
+# A Reinforcement Learning AI for Atari Phoenix Game
